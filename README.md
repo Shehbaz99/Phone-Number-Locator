@@ -19,12 +19,6 @@ A modern Android application built with **Kotlin** that provides phone number in
 
 ## 📸 Screenshots
 
-> Add screenshots of the main screens here.
-
-| Home Screen | Result Screen | Map View   |
-| ----------- | ------------- | ---------- |
-| Screenshot  | Screenshot    | Screenshot |
-
 ---
 
 ## 🛠️ Tech Stack
